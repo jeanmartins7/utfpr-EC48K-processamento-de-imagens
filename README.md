@@ -79,7 +79,7 @@ aprimorado, características de forma e otimização de hiperparâmetros do SVM 
 
 O projeto completo, incluindo o código-fonte (notebook Jupyter), e o vídeo de apresentação, estão armazenados no seguinte repositório de arquivos:
 
-[**LINK DO SEU REPOSITÓRIO (Google Drive, [GitHub](https://github.com/jeanmartins7/utfpr-EC48K-processamento-de-imagens))**]
+[**LINK DO SEU REPOSITÓRIO ([Google Drive](https://drive.google.com/drive/folders/1kvmCbNIYMoaBcf-YdCGQhNC7ICOk3Bhk?usp=sharing), [GitHub](https://github.com/jeanmartins7/utfpr-EC48K-processamento-de-imagens))**]
 
 ## Instruções de Uso (Opcional - Adapte conforme necessário)
 
